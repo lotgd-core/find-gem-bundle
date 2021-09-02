@@ -35,7 +35,7 @@ final class LotgdFindGemBundle extends Bundle implements LotgdBundleInterface
      */
     public function getLotgdVersion(): string
     {
-        return '0.1.0';
+        return '0.1.1';
     }
 
     /**

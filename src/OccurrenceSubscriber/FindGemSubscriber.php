@@ -17,7 +17,6 @@ use Lotgd\Bundle\FindGemBundle\LotgdFindGemBundle;
 use Lotgd\Core\Http\Response;
 use Lotgd\Core\Log;
 use Lotgd\CoreBundle\OccurrenceBundle\OccurrenceSubscriberInterface;
-use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface;
 use Twig\Environment;
 
 class FindGemSubscriber implements OccurrenceSubscriberInterface

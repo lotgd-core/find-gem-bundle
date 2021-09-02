@@ -25,4 +25,5 @@ composer require lotgd-core/BUNDLE-bundle
 
 # Default configuration
 ```yaml
+# Not have configuration
 ```

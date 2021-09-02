@@ -20,7 +20,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 final class LotgdFindGemBundle extends Bundle implements LotgdBundleInterface
 {
     use LotgdBundleTrait;
-    public const TRANSLATION_DOMAIN = 'lodge_find_gem';
+    public const TRANSLATION_DOMAIN = 'lotgd_find_gem';
 
     /**
      * {@inheritDoc}
